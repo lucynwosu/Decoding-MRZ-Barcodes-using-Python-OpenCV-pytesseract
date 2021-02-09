@@ -6,16 +6,16 @@ The Machine Readable Zone (MRZ) barcode refers to the TD1 and TD3 format (2 or 3
 
 The aim of this project is to extract all personal information data from the MRZ like:
 
-**Firstname 
-Lastname
-Passport number
-Nationality
-Sex
-Date of birth
-Expiration date
-Personal number
-Document type
-Country of issuance**
+**Firstname<br> 
+Lastname<br>
+Passport number<br>
+Nationality<br>
+Sex<br>
+Date of birth<br>
+Expiration date<br>
+Personal number<br>
+Document type<br>
+Country of issuance<br>**
 
 The project includes the following steps:
 1. Detecting MRZ Region on Image - OpenCV
