@@ -1,14 +1,20 @@
 ## Decoding-MRZ-Barcodes-using-Python-OpenCV-pytesseract
 
-
-Reading Barcode of Passport, Emirates ID, etc
-It will extract all data like firstname, lastname, passport number, nationality, date of birth, expiration date and personal numer. Theres is Support for the TD1 and TD3 format (2 or 3 lines)
-Download project and locate project directory on terminal
-
-
-Machine Readable Zone – MRZ Lines / Code is a three-letter abbreviation of “Machine Readable Zone”, found at most travel passports and some driver's licenses and ID cards. ... The MRZ code includes the documents owner's personal data sat and forgery detection numbers called
-
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+The Machine Readable Zone (MRZ) barcode refers to the TD1 and TD3 format (2 or 3 lines) found on most travel passports, passport cards, some driver's licenses and ID cards. The MRZ code includes the owner's personal information. The MRZ is the red marked region on the image below. 
 
 ![alt text](https://github.com/lucynwosu/Decoding-MRZ-Barcodes-using-Python-OpenCV-pytesseract/blob/master/examples/220px-Mrp_image.gif)
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
+The aim of this project is to extract all personal information data from the MRZ like:
+
+**Firstname 
+Lastname
+Passport number
+Nationality
+Sex
+Date of birth
+Expiration date
+Personal number
+Document type
+Country of issuance**
+
+To run the project: 
