@@ -1,4 +1,4 @@
-## Decoding-MRZ-Barcodes-using-Python-OpenCV-pytesseract
+### Decoding-MRZ-Barcodes-using-Python-OpenCV-pytesseract
 
 The Machine Readable Zone (MRZ) barcode refers to the TD1 and TD3 format (2 or 3 lines) found on most travel passports, passport cards, some driver's licenses and ID cards. The MRZ code includes the owner's personal information. The MRZ is the red marked region on the image below. 
 
@@ -17,4 +17,11 @@ Personal number
 Document type
 Country of issuance**
 
-To run the project: 
+The project includes the following steps:
+1. Detecting MRZ Region on Image - OpenCV
+2. Reading encoded information on MRZ - python passport eye (pytesseract, OCR)
+
+To run: 
+Clone repo and run code from root folder on Terminal
+python main.py --images <examples/image>
+
