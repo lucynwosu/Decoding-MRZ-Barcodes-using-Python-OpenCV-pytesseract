@@ -21,7 +21,7 @@ The project includes the following steps:
 1. Detecting MRZ Region on Image - OpenCV
 2. Reading encoded information on MRZ - python passport eye (pytesseract, OCR)
 
-To run: 
-Clone repo and run code from root folder on Terminal
-python main.py --images <examples/image>
+To run: <br>
+Clone repo and run code from root folder on terminal <br>
+**python main.py --images <examples/image>**
 
