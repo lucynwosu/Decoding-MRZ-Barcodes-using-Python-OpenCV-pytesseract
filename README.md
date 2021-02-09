@@ -10,5 +10,5 @@ Machine Readable Zone – MRZ Lines / Code is a three-letter abbreviation of “
 
 ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
-
+![alt text](https://github.com/lucynwosu/Decoding-MRZ-Barcodes-using-Python-OpenCV-pytesseract/blob/master/examples/220px-Mrp_image.gif)
 ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
